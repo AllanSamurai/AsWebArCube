@@ -31,14 +31,14 @@
     <type fullname="UnityEngine.EventSystems.StandaloneInputModule" preserve="all" />
   </assembly>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="LicCHK" preserve="all" />
     <type fullname="RotateObject" preserve="all" />
+    <type fullname="LicCHK" preserve="all" />
+    <type fullname="CopyTransformFromPriorityList" preserve="all" />
     <type fullname="HtmlDivOnClickOpenUrl" preserve="all" />
     <type fullname="OnEnableDisableEvent" preserve="all" />
     <type fullname="WebArCamera" preserve="all" />
     <type fullname="WebArMarker" preserve="all" />
     <type fullname="WebArManager" preserve="all" />
-    <type fullname="CopyTransformFromPriorityList" preserve="all" />
   </assembly>
   <assembly fullname="UnityEditor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEditor.MonoScript" preserve="all" />
